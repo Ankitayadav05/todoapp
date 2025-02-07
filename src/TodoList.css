@@ -1,0 +1,30 @@
+*{
+  background-color: rgb(218, 207, 209);
+  justify-content: center;
+  align-items: center;
+}
+.TodoList{
+  padding:25px;
+  border-radius: 15px;
+  border:3px solid ;
+}
+#input{
+  height:25px;
+  width: 250px;
+  border-radius: 15px;
+  border:3px solid rgb(181, 118, 118);
+}
+#button1{
+  border:3px solid rgb(181, 118, 118);
+}
+#button2{
+  border:3px solid rgb(181, 118, 118);
+  margin-bottom: 10px;
+  
+}
+#button3{
+  border:3px solid rgb(181, 118, 118);
+}
+.button4{
+  border:3px solid rgb(181, 118, 118);
+}
